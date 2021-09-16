@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 DONGSEN | DONGSEN |  |
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=R2iMq5LKXco
+https://www.youtube.com/channel/UCR3asjvr_WAaxwJYEDV_Bfw/live
